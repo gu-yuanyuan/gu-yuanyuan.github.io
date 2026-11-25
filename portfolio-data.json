@@ -1,0 +1,139 @@
+{
+ "v": 1,
+ "template": "mono",
+ "info": {
+  "nameKo": "구위안위안",
+  "nameEn": "Gu,Yuan-Yuan",
+  "email": "guyuanyuan0610@naver.com",
+  "insta": "",
+  "school": "호서대학교 실내디자인학과",
+  "titleKo": "Enamel",
+  "titleEn": "",
+  "subtitle": "교집합을 통한 법랑 문화의 교류",
+  "concept": "",
+  "keywords": [
+   "법랑공예",
+   "공간중첩",
+   "문화계승"
+  ],
+  "desc": "법랑 공예는 과거 일상 식기로써 사람들의 삶에 함께해왔으나, 현대에 들어 대중의 관심이 점차 줄어들고 기술의 단절 위기에 처해있다. 디지털 시대 속 사람들은 문화 체험의 기회가 줄어들고, 전통 공예와의 거리감을 느끼게 된다.\n\n본 건축은 전시공간, 법랑 제작공간, 드로잉 공간, 소성공간, 휴게공간과 식사공간이 서로 중첩되어 배치된다.\n\n중첩된 공간 속에서 방문객들은 법랑 작품을 관람하고, 직접 제작·그림 작업에 참여하며 소성 과정을 볼 수 있다. \n휴게와 식사를 하는 동안 자연스럽게 공예가와 방문객, 방문객 간의 소통이 이뤄진다.\n\n본 공간은 단순한 전시장을 넘어, 법랑 문화를 매개로 사람들이 만나고 교류하는 교집합의 장소를 제안한다.\n관람과 체험, 휴식이 겹쳐지며 전통 법랑 공예의 보존, 계승과 혁신을 이루고자 한다.",
+  "loc": "중국 청두 사당가",
+  "program": "",
+  "area": "",
+  "year": "2026",
+  "positioning": "",
+  "about": "",
+  "youtube": "https://youtu.be/t6GdA-j6NAE?si=4aFwN4g7U5lkP427",
+  "github": "gu-yuanyuan",
+  "repoMode": "user",
+  "repo": "portfolio"
+ },
+ "brand": {
+  "c1": "#2B2A28",
+  "c2": "#D9D4CC",
+  "c3": "#B5532F",
+  "font": "classic",
+  "bg": "default"
+ },
+ "motion": {
+  "intro": "counter",
+  "reveal": "up",
+  "image": "none",
+  "progress": true,
+  "marquee": true,
+  "cursor": false
+ },
+ "sections": {
+  "concept": true,
+  "video": true,
+  "gallery": true,
+  "process": true,
+  "drawing": true,
+  "panel": true,
+  "about": false
+ },
+ "images": [
+  {
+   "out": "01-hero.jpg",
+   "name": "截屏2026-11-22 21.56.34.png",
+   "cat": "hero",
+   "caption": "",
+   "w": 1962,
+   "h": 1086
+  },
+  {
+   "out": "02-panel.jpg",
+   "name": "01.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 579
+  },
+  {
+   "out": "03-panel.jpg",
+   "name": "02.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "04-panel.jpg",
+   "name": "03.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "05-panel.jpg",
+   "name": "04.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "06-panel.jpg",
+   "name": "05.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "07-panel.jpg",
+   "name": "06.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "08-panel.jpg",
+   "name": "07.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "09-panel.jpg",
+   "name": "08.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "10-panel.jpg",
+   "name": "09.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  }
+ ],
+ "videos": [],
+ "savedAt": "2026-11-25T05:34:45.916Z"
+}
